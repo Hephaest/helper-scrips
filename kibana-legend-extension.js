@@ -6,7 +6,7 @@
 // @author       Hephaest
 // @icon         https://avatars.githubusercontent.com/u/37981444?v=4
 // @updateURL    https://github.com/Hephaest/helper-scripts/blob/main/kibana-legend-extension.js
-// @match        https://kibana.mymyhub.com/*
+// @match        https://kibana.pro.mymyhub.com/*
 // @grant        none
 // @license      MIT
 // @run-at       document-idle
