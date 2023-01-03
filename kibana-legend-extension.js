@@ -15,6 +15,6 @@
 (function () {
   'use strict';
    var legendTitleEl = document.createElement('style')
-   legendTitleEl.innerHTML = ".visLegend__valueTitle { white-space: normal !important; word-wrap: break-word !important;}";
+   legendTitleEl.innerHTML = ".visLegend__valueTitle { white-space: normal !important; word-wrap: break-word !important;} .euiButtonEmpty { height: 100% !important; }";
    document.body.after(legendTitleEl);
 })();
